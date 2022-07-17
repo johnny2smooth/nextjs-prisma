@@ -10,6 +10,8 @@ tags:
 
 # NextJS Prisma Example
 
+This is cool!
+
 This example is a [NextJS](https://nextjs.org/) todo app that uses
 [Prisma](https://www.prisma.io/) to store todos in Postgres.
 
